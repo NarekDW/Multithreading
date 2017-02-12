@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<transactions>
+       <transaction from="1" to="2">10</transaction>
+       <transaction from="2" to="3">50</transaction>
+       <transaction from="3" to="1">30</transaction>
+</transactions>
